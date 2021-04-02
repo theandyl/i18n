@@ -6,5 +6,9 @@
 			"1 year old",
 			"%d years old"
 		]
+	},
+	"app.users.active": {
+		"one": "Just one user online",
+		"other": "There are %d users online"
 	}
 }
