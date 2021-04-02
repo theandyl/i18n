@@ -1,0 +1,24 @@
+{
+    "hello": {
+        "translation": "Hello!"
+    },
+    "hello_name": {
+        "translation": "Hello, %s!"
+    },
+    "other": {
+        "age": [
+            {
+                "translation": "1 year old"
+            },
+            {
+                "translation": "%d years old"
+            }
+        ]
+    },
+    "app.users.active": {
+        "translation": {
+            "one": "Just one user online",
+            "other": "There are %d users online"
+        }
+    }
+}
